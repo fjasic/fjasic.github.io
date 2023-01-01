@@ -1,6 +1,5 @@
 
 ![spinning donut](spin.gif)
-
 ### Some Python things
 - [django](https://github.com/fjasic/django)
 - [my bsc about decoding signals from oscilloscope](https://github.com/fjasic/bsc)
