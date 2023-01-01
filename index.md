@@ -1,8 +1,12 @@
+<span style="color:white">
 # Portfolio
+</span>
 
 ![spinning donut](spin.gif)
 
+<span style="color:white">
 ### Some Python things
+</span>
 
 - [django](https://github.com/fjasic/django)
 - [my bsc about decoding signals from oscilloscope](https://github.com/fjasic/bsc)
