@@ -16,14 +16,7 @@
 - [github action for artifactory deployment](https://github.com/fjasic/workflow_push_to_artifactory)
 
 ---
-### other academic stuff
-
-- [github actions collection](https://github.com/fjasic/gh_actions)
-- [custom github action](https://github.com/fjasic/react-app)
-- [github action for artifactory deployment](https://github.com/fjasic/workflow_push_to_artifactory)
-
----
-### Some devops stuff
+### academic projects
 
 - [verilog and systemverilog stuff](https://github.com/fjasic/uvm)
 - [game for FPGA board done in C](https://github.com/fjasic/simonsaysrpi)
