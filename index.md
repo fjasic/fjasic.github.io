@@ -1,13 +1,13 @@
 
 ![spinning donut](spin.gif)
-### Some Python things
+### some python things
 - [django](https://github.com/fjasic/django)
 - [my bsc about decoding signals from oscilloscope](https://github.com/fjasic/bsc)
 - [jupyter notebooks on deep learning](https://github.com/fjasic/duusaiuv)
 - [algorithms done in python](https://github.com/fjasic/pa)
 
 ---
-### Some devops stuff
+### some devops stuff
 
 - [github actions collection](https://github.com/fjasic/gh_actions)
 - [custom github action](https://github.com/fjasic/react-app)
