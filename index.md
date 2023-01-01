@@ -1,4 +1,4 @@
-<span style="color:white"> # Portfolio </span>
+# Portfolio
 
 ![spinning donut](spin.gif)
 
