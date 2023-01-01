@@ -1,4 +1,5 @@
-# Portfolio
+<span style="color:white"> # Portfolio </span>
+
 ![spinning donut](spin.gif)
 
 ### Some Python things
