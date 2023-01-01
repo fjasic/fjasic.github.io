@@ -9,5 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/filipjasic/">View My LinkedIn Profile</a> 
   
-remote_theme: "dracula/gh-pages"
+theme: minima
+minima:
+  skin: dark
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
