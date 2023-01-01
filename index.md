@@ -4,7 +4,7 @@
 ### Some Python things
 - [django](https://github.com/fjasic/django)
 - [my bsc about decoding signals from oscilloscope](https://github.com/fjasic/bsc)
-- [jupyter books on deep learning](https://github.com/fjasic/duusaiu)
+- [jupyter notebooks on deep learning](https://github.com/fjasic/duusaiuv)
 - [algorithms done in python](https://github.com/fjasic/pa)
 
 ---
