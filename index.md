@@ -6,14 +6,12 @@
 - [jupyter notebooks on deep learning](https://github.com/fjasic/duusaiuv)
 - [algorithms done in python](https://github.com/fjasic/pa)
 
----
 ### some devops stuff
 
 - [github actions collection](https://github.com/fjasic/gh_actions)
 - [custom github action](https://github.com/fjasic/react-app)
 - [github action for artifactory deployment](https://github.com/fjasic/workflow_push_to_artifactory)
 
----
 ### academic projects
 
 - [verilog and systemverilog stuff](https://github.com/fjasic/uvm)
