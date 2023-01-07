@@ -7,7 +7,7 @@
 - [algorithms done in python](https://github.com/fjasic/pa)
 
 ### some devops stuff
-
+- [go](https://github.com/fjasic/go)
 - [github actions collection](https://github.com/fjasic/gh_actions)
 - [custom github action](https://github.com/fjasic/react-app)
 - [github action for artifactory deployment](https://github.com/fjasic/workflow_push_to_artifactory)
