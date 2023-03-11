@@ -5,6 +5,7 @@
 - [my bsc about decoding signals from oscilloscope](https://github.com/fjasic/bsc)
 - [jupyter notebooks on deep learning](https://github.com/fjasic/duusaiuv)
 - [algorithms done in python](https://github.com/fjasic/pa)
+- [all types of sql](https://github.com/fjasic/sql)
 
 ### some devops stuff
 - [go](https://github.com/fjasic/go)
