@@ -8,7 +8,7 @@
 - [all types of sql](https://github.com/fjasic/sql)
 
 ### some devops stuff
-- [terraform]([https://github.com/fjasic/go](https://github.com/fjasic/terraform))
+- [terraform](https://github.com/fjasic/terraform)
 - [go](https://github.com/fjasic/go)
 - [github actions collection](https://github.com/fjasic/gh_actions)
 - [custom github action](https://github.com/fjasic/react-app)
